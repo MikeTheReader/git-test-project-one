@@ -1,5 +1,5 @@
 def modify_this_function():
-    pass
+    print('Modified by hotfix two')
 
 def leave_this_function_alone():
     pass

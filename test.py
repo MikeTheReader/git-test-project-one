@@ -1,7 +1,5 @@
-test
-test2
-
-test
-
-from tastypie.api import
-test3
+def some_new_function():
+    pass
+    
+def some_other_new_function():
+    pass

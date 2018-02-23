@@ -6,3 +6,6 @@ def some_other_new_function():
 
 def second_branch():
     print('second branch')
+
+def third_branch():
+    print('third branch - change made in branch_one')

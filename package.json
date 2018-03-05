@@ -1,0 +1,9 @@
+{
+  "name": "git-test-project-one",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "repository": "https://github.com/MikeTheReader/git-test-project-one.git",
+  "author": "Michael Lundin <mikel@ifit.com>",
+  "license": "MIT"
+}

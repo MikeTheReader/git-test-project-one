@@ -1,6 +1,9 @@
 def some_new_function():
     print('some_new_function --masterVersion -newVersion')
 
+def new_add_function():
+    print('add')
+
 def some_other_new_function():
     print('some_other_new_function, again -- hotfixVersion')
 
